@@ -125,7 +125,7 @@ def lottoGame():
     wallet_amnt += winnings
     print(f"Wallet: ${wallet_amnt}")
     print("\n")
-
+    # hi
 def walletCheck():
     global wallet_amnt
     if wallet_amnt < 2:
