@@ -164,5 +164,6 @@ def main():
                 walletCheck()
                 wallet_amnt -= 2
                 lottoGame()
+                # hi
 
 main()
